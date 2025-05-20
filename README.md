@@ -44,8 +44,8 @@ requirements.txt
 
 1. **Clone o repositório:**
    ```sh
-   git clone <url-do-repositorio>
-   cd <nome-do-repositorio>
+   git clone (https://github.com/DiegoCamaraDev/Teste_Tecnico_Programa_Trainee-triggoai/tree/main)
+   cd Teste_Tecnico_Programa_Trainee-triggoai
    ```
 
 2. **Crie um ambiente virtual (opcional, mas recomendado):**
