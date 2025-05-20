@@ -44,7 +44,7 @@ requirements.txt
 
 1. **Clone o repositório:**
    ```sh
-   git clone (https://github.com/DiegoCamaraDev/Teste_Tecnico_Programa_Trainee-triggoai/tree/main)
+   git clone https://github.com/DiegoCamaraDev/Teste_Tecnico_Programa_Trainee-triggoai/tree/main
    cd Teste_Tecnico_Programa_Trainee-triggoai
    ```
 
